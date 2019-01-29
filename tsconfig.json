@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+      "outDir": "./dist/",
+      "noImplicitAny": true,
+      "module": "commonjs",
+      "target": "es3",
+      "allowJs": true,
+      "sourceMap": true
+    },
+    "files": [
+      "./src/loader.ts"
+    ]
+  }
