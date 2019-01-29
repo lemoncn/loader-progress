@@ -9,6 +9,10 @@
     "np": "np --yolo",
     "log": "auto-changelog"
   },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:lemoncn/loader-progress.git"
+  },
   "author": "lemon",
   "license": "ISC",
   "devDependencies": {
