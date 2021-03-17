@@ -4,10 +4,10 @@
 
 # 使用
 
-`npm i @fe/loader-progress`
+`npm i loader-progress`
 
 
-    var Loader = require('@fe/loader-progress');
+    var Loader = require('loader-progress');
     var loader = new Loader({
         list: [
             'http://mail.163.com/help/desktop/200507/netease-bobo8-summer-800.jpg',
