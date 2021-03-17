@@ -1,6 +1,6 @@
 {
   "name": "loader-progress",
-  "version": "0.0.3",
+  "version": "0.2.6",
   "description": "图片预加载信息库",
   "main": "./dist/loader.js",
   "scripts": {
